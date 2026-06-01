@@ -1,0 +1,13 @@
+__turbopack_load_page_chunks__("/", [
+  "static/chunks/node_modules_next_dist_compiled_1n82w36._.js",
+  "static/chunks/node_modules_next_dist_shared_lib_12jmhie._.js",
+  "static/chunks/node_modules_next_dist_client_16lnmlo._.js",
+  "static/chunks/node_modules_next_dist_0zk-zb1._.js",
+  "static/chunks/node_modules_react-dom_0kla17-._.js",
+  "static/chunks/node_modules_@supabase_postgrest-js_dist_index_mjs_1a_gfit._.js",
+  "static/chunks/node_modules_@supabase_auth-js_dist_module_1truu-x._.js",
+  "static/chunks/node_modules_1asati2._.js",
+  "static/chunks/[root-of-the-server]__0drlkvz._.js",
+  "static/chunks/pages_index_0du2_q-._.js",
+  "static/chunks/turbopack-pages_index_1djkdro._.js"
+])
